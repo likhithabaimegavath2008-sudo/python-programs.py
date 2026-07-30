@@ -6,3 +6,5 @@
 -mul.py
 ##day2(30/07/26)
 -fact.py
+##day2(30/07/26)
+-operation.py
