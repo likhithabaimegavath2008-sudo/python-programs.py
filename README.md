@@ -4,3 +4,5 @@
 -largest.py
 ##day2(30/07/26)
 -mul.py
+##day2(30/07/26)
+-fact.py
