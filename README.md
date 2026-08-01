@@ -10,3 +10,5 @@
 -operation.py
 ##day2(30/07/26)
 -swap.py
+##day3(1/08/26)
+-sqrt.py
