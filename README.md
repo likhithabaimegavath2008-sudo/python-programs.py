@@ -12,3 +12,5 @@
 -swap.py
 ##day3(1/08/26)
 -sqrt.py
+##day3(1/08/26)
+-palindrome.py
