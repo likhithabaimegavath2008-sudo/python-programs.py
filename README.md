@@ -26,3 +26,5 @@
 -Fibonacci.py
 ##day6(4/08/26)
 -reverse.py
+$#day7(5/08/26)
+-armstrong.py
