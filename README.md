@@ -32,3 +32,5 @@
 -countvowel.py
 ##day8(6/08/26)
 -gcd.py
+##day8(6/08/26)
+-grade.py
