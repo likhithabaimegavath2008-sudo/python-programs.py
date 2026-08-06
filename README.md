@@ -30,3 +30,5 @@
 -armstrong.py
 ##day7(5/08/26)
 -countvowel.py
+##day8(6/08/26)
+-gcd.py
