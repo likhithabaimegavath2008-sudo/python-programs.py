@@ -34,3 +34,5 @@
 -gcd.py
 ##day8(6/08/26)
 -grade.py
+##day9(8/08/26)
+-perfect.py
