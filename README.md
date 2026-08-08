@@ -36,3 +36,5 @@
 -grade.py
 ##day9(8/08/26)
 -perfect.py
+##day9(8/8/26)
+-strongnum.py
